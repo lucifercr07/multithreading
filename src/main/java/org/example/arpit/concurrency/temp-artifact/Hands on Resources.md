@@ -1,6 +1,6 @@
-1. [ ] [Implement Fair Multi threading Program](https://www.youtube.com/watch?v=2PjlaUnrAMQ&list=PLsdq-3Z1EPT3VjDhjMb5yBsgn0wn2-fjp&index=1&pp=iAQB)
+1. [x] [Implement Fair Multi threading Program](https://www.youtube.com/watch?v=2PjlaUnrAMQ&list=PLsdq-3Z1EPT3VjDhjMb5yBsgn0wn2-fjp&index=1&pp=iAQB)
 2. [ ] [Singleton](https://github.com/volkodavs/multithreading-playground/blob/master/src/main/java/com/sergeyvolkodav/singleton/README.md)
-3. [ ] Implement ThreadPool/DB Connection Pool
+3. [x] Implement ThreadPool/DB Connection Pool
 4. [x] [Print in order](https://leetcode.com/problems/print-in-order/description/)
 5. [ ] [Print Foobar alternately](https://leetcode.com/problems/print-foobar-alternately/description/)
 6. [ ] [Print Zero Even Odd](https://leetcode.com/problems/print-zero-even-odd/)
